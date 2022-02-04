@@ -1,3 +1,3 @@
 # GTA-FiveM
 
-Repo for FiveM
+Repository for FiveM
